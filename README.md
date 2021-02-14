@@ -1,1 +1,1 @@
-# RestAssured Basic reqres
+# RestAssured Basic request and response
