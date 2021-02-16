@@ -5,7 +5,9 @@ import org.testng.annotations.Test;
 import io.restassured.RestAssured;
 
 public class POST_Request_Test {
-	
+	/*
+	 * Demo Push Test
+	 */
 	@Test(enabled = true)
 	public void post_POSTRequest_Create() {
 		RestAssured.baseURI = "https://reqres.in";
