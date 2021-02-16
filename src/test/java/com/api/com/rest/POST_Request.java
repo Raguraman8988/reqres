@@ -18,5 +18,6 @@ String asString = RestAssured.given()
 .then().log().all().extract().response().asString();
 
 System.out.println(asString);
+	// First Method
 }
 }
